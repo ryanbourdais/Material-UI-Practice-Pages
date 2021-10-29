@@ -1,3 +1,6 @@
+
+# My First React Native app
+
 This app was written to learn the basics of React as well as how to use the Material UI front-end Library.
 This repo will become a large site of practice pages for learning stylization as well as practicing new methods of coding.
 This repo is also for learning the basics of using the terminal as well as for learning what can and cannot be done using React.
