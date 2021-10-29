@@ -17,6 +17,10 @@ const useStyles = makeStyles((theme) => ({
     icons: {
         marginRight: '10px'
     },
+    contactIcons: {
+        transform: 'scale(1.8)',
+        margin: '30px 30px 0 30px'
+    },
     cardGrid: {
         padding: '20px 0',
         margin: '50px'
@@ -27,7 +31,7 @@ const useStyles = makeStyles((theme) => ({
         flexDirection: 'column'     
     },
     cardMedia: {
-        paddingTop: '56.25%' //16:9
+        paddingTop: '56.25%' //16:9 aspect ratio for the images within cards
     },
     cardContent: {
         flexGrow: 1,
@@ -56,7 +60,7 @@ const useStyles = makeStyles((theme) => ({
     },
     Bar2: {
         borderTop: "1px dotted #8c8b8b"
-    }
+    }   
   }));
 
   export default useStyles

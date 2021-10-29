@@ -1,7 +1,7 @@
 import React from 'react';
 import {Route} from 'react-router-dom';
 import {CssBaseline, AppBar, Typography, Toolbar, Button, ButtonGroup} from '@material-ui/core';
-import { AccountBox } from '@material-ui/icons';
+import { Code } from '@material-ui/icons';
 import { Link } from 'react-router-dom';
 
 import Home from './Screens/Home';
@@ -18,7 +18,7 @@ function App() {
     <CssBaseline />
             <AppBar position="relative" color="secondary">
                 <Toolbar >
-                    <AccountBox className={classes.icons} />
+                    <Code className={classes.icons} />
                     <Typography variant="h6" style={{ marginLeft: '10px' }}>
                         Ryan Bourdais
                     </Typography>
