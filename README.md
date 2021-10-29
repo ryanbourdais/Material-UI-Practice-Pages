@@ -1,3 +1,16 @@
+This app was written to learn the basics of React as well as how to use the Material UI front-end Library.
+This repo will become a large site of practice pages for learning stylization as well as practicing new methods of coding.
+This repo is also for learning the basics of using the terminal as well as for learning what can and cannot be done using React.
+
+Last Updated:
+
+Ryan Bourdais
+10/28/2021 15:15 CST
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
