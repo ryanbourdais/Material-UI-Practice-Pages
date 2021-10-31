@@ -8,7 +8,7 @@ const Technologies = () => {
     return (
         <>
             <Typography variant="h2" align="center" className={classes.SubTitle}>
-                Welcome to my technologies! <hr className={classes.Bar2}/>
+                Welcome to my technologies! <hr className={classes.Bar2} />
             </Typography>
             <main>
                 <div align="center">
@@ -37,6 +37,9 @@ const Technologies = () => {
                         CSS
                     </Typography>
                     <Typography>
+                        SQL/SSMS
+                    </Typography>
+                    <Typography>
                         Java
                     </Typography>
                     <Typography>
@@ -53,7 +56,15 @@ const Technologies = () => {
                     </Typography>
                 </div>
             </main>
+            <footer className={classes.footer2}>
+                <Typography variant='h6' align='center' gutterBottom>
+                    Ryan Bourdais
+                </Typography>
+                <Typography variant='subtitle1' align='center' color='textSecondary'>
+                    Designed using React and Material UI in 2021
+                </Typography>
 
+            </footer>
         </>
     );
 }

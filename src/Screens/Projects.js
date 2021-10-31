@@ -80,10 +80,10 @@ const Projects = () => {
             </main>
             <footer className={classes.footer}>
                 <Typography variant='h6' align='center' gutterBottom>
-                    Footer
+                    Ryan Bourdais
                 </Typography>
                 <Typography variant='subtitle1' align='center' color='textSecondary'>
-                    Omni Gaellia es dividas in tres partes
+                    Designed using React and Material UI in 2021    
                 </Typography>
 
             </footer>
